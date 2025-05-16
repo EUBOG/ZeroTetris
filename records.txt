@@ -1,0 +1,10 @@
+Nord: 41900
+Ronny: 11000
+Luke: 9100
+Rust: 4600
+Gor: 3200
+Tom: 1200
+Dit: 400
+Kelly: 300
+Tim: 200
+Eros: 100
